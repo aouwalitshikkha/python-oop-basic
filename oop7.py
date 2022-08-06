@@ -29,7 +29,7 @@ item2 = Product('Laptop', 10000, 100)
 item3 = Product('Moneybag', 280, 15)
 
 # print(Product.__doc__) #class level
-print(items.__)
+print(items.__dict__)
 
 # __init__
 # __doc__
